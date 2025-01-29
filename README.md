@@ -1,4 +1,4 @@
-# fontawesome_to_dart_class_Generator
+# fontawesome To Dart Class Generator
 Font Icon File to Dart Class Generator
 
 
